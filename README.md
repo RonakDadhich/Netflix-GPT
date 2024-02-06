@@ -100,6 +100,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  - Update store with trailer Video data
  - Embedded the Youtube Video and make it autoplay and mute
  - Tailwind Classes to make main Container look awesome
+ - Build Secondary Component
 
 
 # Features:
