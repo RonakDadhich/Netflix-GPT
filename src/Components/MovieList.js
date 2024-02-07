@@ -2,7 +2,7 @@ import React from 'react'
 import MovieCard from './MovieCard'
 
 const MovieList = ({ title, movies }) => {
-    console.log(movies)
+    
 // if(!movies) return ======> jab humari length zero or undefined ajata hai tab lagate hai yeh
 
   return (
